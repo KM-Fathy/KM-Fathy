@@ -19,24 +19,20 @@ Contact with me </h2>
 Programming languages and Tools </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&locale=en&layout=compact" alt="KM-Fathy" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" text=Flutter title=Flutter alt="flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" title=Firebase alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title=Dart alt="dart" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title=Java alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title=C# alt="csharp" width="45" height="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title=C width="45" height="45"/> 
 </p>
 
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" " alt="KM-Fathy" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KM-Fathy&label=Profile%20views&color=0e75b6&style=flat" alt="KM-Fathy" /> </p>
 
 
 
-<div align="center" width="50">
 
- 
-</div>
 
