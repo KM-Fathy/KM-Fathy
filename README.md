@@ -31,7 +31,7 @@ Programming languages and Tools </h2>
 
 
 
-Happy Coding! 😊<p align="left"> <img src="https://komarev.com/ghpvc/?username=KM-Fathy&label=Profile%20views&color=0e75b6&style=flat" alt="KM-Fathy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KM-Fathy&label=Profile%20views&color=0e75b6&style=flat" alt="KM-Fathy" /> </p>
 
 
 
