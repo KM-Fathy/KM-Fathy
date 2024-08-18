@@ -9,7 +9,7 @@
  
  
 ## 🌐 Socials:
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=C2A17C" />](https://www.linkedin.com/in/kareem-mohamed-64a92628a/) [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C2A17C" />](https://www.instagram.com/kareem._.mohamed11/)  [<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=C2A17C" />](https://www.facebook.com/profile.php?id=100078072495501)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" />](https://www.linkedin.com/in/kareem-mohamed-64a92628a/) [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=000000" />](https://www.instagram.com/kareem._.mohamed11/)  [<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=000000" />](https://www.facebook.com/profile.php?id=100078072495501)
   <br> <br>
 
 <h2 align="center">
