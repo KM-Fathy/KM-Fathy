@@ -3,7 +3,7 @@
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2A17C&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
--📜 I’m currently learning mobile application development using flutter
+- 📜 I’m currently learning mobile application development using flutter
 
 <img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" />
  
@@ -13,7 +13,7 @@
   <br> <br>
 
 <h2 align="center">
-・📜Programming Languages and Tools </h2>
+・🖥️ Programming Languages and Tools </h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" text=Flutter title=Flutter alt="flutter" width="40" height="40"/>
