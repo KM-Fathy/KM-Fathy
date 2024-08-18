@@ -6,32 +6,27 @@
 
   
  
-![Anurag's GitHub stats](https://github-readme-stats-beta-jade-32.vercel.app/api?username=KM-Fathy&show_icons=true&bg_color=00000000)
+<img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
  
  
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+<h2>
+Contact with me </h2>
 
-  <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kareem-mohamed-64a92628a/) [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kareem._.mohamed11/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100078072495501)
+  <br> <br>
+
+<h2 align="center">
+Programming languages and Tools </h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
   
-  <a href="https://www.facebook.com/profile.php?id=100078072495501" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
-  
-</div>
-<hr>
-
-### 👨‍💻 Programming Languages and tools
-
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
-![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android)
-![enter image description here](https://img.shields.io/badge/-IOS-000000?&logo=apple)
-![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
-![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&locale=en&layout=compact" alt="KM-Fathy" />
 </p>
 
 
