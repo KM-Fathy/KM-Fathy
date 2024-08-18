@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning mobile application development using flutter
 
-<img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
+<img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=C2A17C&text_color=fff&icon_color=fff" />
  
  
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 </p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" " alt="KM-Fathy" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /></p>
 
 
 
