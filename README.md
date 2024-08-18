@@ -14,7 +14,7 @@
   <br> <br>
 
 <h2 align="center">
-Programming languages and Tools </h2>
+・Programming Languages and Tools </h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" text=Flutter title=Flutter alt="flutter" width="40" height="40"/>
