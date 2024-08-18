@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kareem Mohamed</h1>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2A17C&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
-- 🌱 I’m currently learning mobile application development using flutter
 
-  
+- 🌱 I’m currently learning mobile application development using flutter
 
 <img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
  
