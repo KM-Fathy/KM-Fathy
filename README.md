@@ -27,6 +27,10 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /></p>
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=C2A17C&text=Feel%20free%20to%20Follow&fontSize=60&animation=twinkling&fontAlignY=30&desc=%20Good%20Bye&descSize=30&section=footer" />
+</p>
+
 
 
 
