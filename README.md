@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=header"/>
 
-<div align="center">
+<!--<div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kareem%20Mohamed&fontSize=70&color=0:C2A17C,100:C2A17C&stroke=C2A17C)
 
-</div>
+</div> -->
 
-<!-- <h1 align="center">Welcome 👋, I'm Kareem Mohamed</h1> -->
+<h1 align="center">Welcome 👋, I'm Kareem Mohamed</h1> 
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2A17C&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 
