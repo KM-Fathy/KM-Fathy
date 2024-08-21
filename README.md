@@ -52,6 +52,9 @@
 </div>-->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /></p>
 
+<!--[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)-->
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=footer"/>
 
 
