@@ -15,7 +15,7 @@
 <img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" />
  
  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Socials:
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="55px"> Socials:
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" />](https://www.linkedin.com/in/kareem-mohamed-64a92628a/) [<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=000000" />](https://www.instagram.com/kareem._.mohamed11/)  [<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=000000" />](https://www.facebook.com/profile.php?id=100078072495501)
   
 <img src="https://github-stats-alpha.vercel.app/api?username=KM-Fathy&cc=000&tc=fff&ic=fff&bc=000" width="450"/>
