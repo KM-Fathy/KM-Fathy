@@ -37,23 +37,23 @@
       <th style="background-color: #C2A17C;">C</th>
     </tr>
     <tr>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44"/> </div>
       </td>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/> </div>
       </td>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/> </div>
       </td>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/> </div>
       </td>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/> </div>
       </td>
-      <td style="text-align: center; background-color: #C2A17C;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/>
+      <td background-color: #C2A17C;">
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/> </div>
       </td>
     </tr>
   </table>
