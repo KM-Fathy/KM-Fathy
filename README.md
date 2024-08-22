@@ -29,23 +29,36 @@
 <div align="center">
   <table>
     <tr>
-      <th>Flutter</th>
-      <th>Firebas</th>
-      <th>Dart</th>
-      <th>Java</th>
-      <th>C#</th>
-      <th>C</th>
+      <th style="background-color: #C2A17C;">Flutter</th>
+      <th style="background-color: #C2A17C;">Firebase</th>
+      <th style="background-color: #C2A17C;">Dart</th>
+      <th style="background-color: #C2A17C;">Java</th>
+      <th style="background-color: #C2A17C;">C#</th>
+      <th style="background-color: #C2A17C;">C</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/></td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44"/>
+      </td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/>
+      </td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/>
+      </td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
+      </td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/>
+      </td>
+      <td style="text-align: center; background-color: #C2A17C;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/>
+      </td>
     </tr>
   </table>
 </div>
+
 <!--<div align="center">
  
 ![contributions](https://user-images.githubusercontent.com/70854062/205451107-58d5f44b-ed85-40bb-aed9-65d85e2582e4.svg)
