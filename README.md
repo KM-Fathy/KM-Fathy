@@ -53,7 +53,7 @@
         <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/> </div>
       </td>
       <td background-color: #C2A17C;">
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/> </div>
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80" height="80"/> </div>
       </td>
     </tr>
   </table>
