@@ -32,6 +32,7 @@
       <th> Flutter </th>
       <th> Firebase </th>
       <th> Dart </th>
+      <th> SQLite </th>
       <th> Java </th>
       <th> C# </th>
       <th> C </th>
@@ -45,6 +46,9 @@
       </td>
       <td>
         <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/> </div>
+      </td>
+      <td>
+        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="44" height="44"/> </div>
       </td>
       <td>
         <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/> </div>
