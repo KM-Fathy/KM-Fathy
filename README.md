@@ -33,6 +33,7 @@
       <th> Firebase </th>
       <th> Dart </th>
       <th> SQLite </th>
+      <th> Cubit </th>
       <th> Java </th>
       <th> C# </th>
       <th> C </th>
@@ -50,6 +51,9 @@
       <td>
         <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="44" height="44"/> </div>
       </td>
+     <td>
+        <div align="center"> <img src="https://github.com/user-attachments/assets/d2c2440f-8c81-47be-8f47-df87a29d974e" alt="Bloc" width="44" height="50"/> </div>
+      </td>
       <td>
         <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/> </div>
       </td>
@@ -62,6 +66,8 @@
     </tr>
   </table>
 </div>
+
+
 
 <!--<div align="center">
  
