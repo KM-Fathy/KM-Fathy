@@ -15,8 +15,17 @@
 <img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" />
  
  
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20"> Socials:
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" />](https://www.linkedin.com/in/kareem-mohamed-64a92628a/)
+<h2>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20"> 
+  Socials
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" height="60"/>
+  </a>
+</p>
+
   
 <!--<img src="https://github-stats-alpha.vercel.app/api?username=KM-Fathy&cc=000&tc=fff&ic=fff&bc=000" width="450"/>-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
@@ -26,46 +35,9 @@
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <th> Flutter </th>
-      <th> Firebase </th>
-      <th> Dart </th>
-      <th> SQLite </th>
-      <th> Cubit </th>
-      <th> Java </th>
-      <th> C# </th>
-      <th> C </th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="44" height="44"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="44" height="44"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="44" height="44"/> </div>
-      </td>
-     <td>
-        <div align="center"> <img src="https://github.com/user-attachments/assets/15fb1e13-6d1e-4dab-88b8-1881d6b9a743" alt="Cubit" width="44" height="50"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" width="44" height="44"/> </div>
-      </td>
-      <td>
-        <div align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="44" height="44"/> </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java,c,cs,sqlite,python,vscode" height="45" />
+</p>
 
 
 
@@ -74,7 +46,7 @@
 ![contributions](https://user-images.githubusercontent.com/70854062/205451107-58d5f44b-ed85-40bb-aed9-65d85e2582e4.svg)
 
 </div>-->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /> </p>
 <!--[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)-->
 
 
