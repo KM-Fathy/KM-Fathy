@@ -10,10 +10,6 @@
   </a>
 </div>
 
-<h2>
-  📱 About Me
-</h2>
-
 - 🚀 I'm currently learning **Mobile Application Development** using **Flutter**
 
 <h2>
