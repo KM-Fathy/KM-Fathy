@@ -34,11 +34,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,c,cs,sqlite,python,vscode" height="45" />
 </p>
 
-
-<h2>
-  📊 GitHub Stats
-</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
 </p>
