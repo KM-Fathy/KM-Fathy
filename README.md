@@ -13,7 +13,7 @@
 - 🚀 I'm currently learning **Mobile Application Development** using **Flutter**
 
 <h2>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Connect With Me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Socials
 </h2>
 
 <p align="center">
