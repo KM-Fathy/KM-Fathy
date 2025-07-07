@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,c,cs,sqlite,python,vscode" height="45" />
 </p>
-
 
 
 <h2>
