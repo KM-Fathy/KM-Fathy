@@ -1,60 +1,58 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=header"/>
 
-<!--<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kareem%20Mohamed&fontSize=70&color=0:C2A17C,100:C2A17C&stroke=C2A17C)
+<h1 align="center">
+  Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kareem Mohamed
+</h1>
 
-</div> -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C2A17C&center=true&vCenter=true&width=500&lines=Computer+Engineer;Mobile+App+Development;Flutter" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center"> Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kareem Mohamed</h1> 
-
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2A17C&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
-
-- 📜 I’m currently learning mobile application development using flutter
-
-<img align="center" alt="Kareem Mohamed Fathy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" />
- 
- 
 <h2>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20"> 
-  Socials
+  📱 About Me
+</h2>
+
+- 🚀 I'm currently learning **Mobile Application Development** using **Flutter**
+
+<h2>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Connect With Me
 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000000" height="60"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-  
-<!--<img src="https://github-stats-alpha.vercel.app/api?username=KM-Fathy&cc=000&tc=fff&ic=fff&bc=000" width="450"/>-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
-
-<h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"> Programming Languages and Tools </h2>
-
-
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"> Programming Languages & Tools
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java,c,cs,sqlite,python,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,c,cs,sqlite,python,vscode" height="45" />
 </p>
 
 
 
-<!--<div align="center">
- 
-![contributions](https://user-images.githubusercontent.com/70854062/205451107-58d5f44b-ed85-40bb-aed9-65d85e2582e4.svg)
+<h2>
+  📊 GitHub Stats
+</h2>
 
-</div>-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&count_private=true&bg_color=35,000000,000000&title_color=C2A17C&text_color=fff&icon_color=fff" " alt="KM-Fathy" /> </p>
-<!--[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&layout=compact&count_private=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
+</p>
+
+<h2>
+  🧠 Fun Fact
+</h2>
+
+> _“I write code not just to make apps... but to solve real-world problems and make lives easier.”_
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=footer"/>
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=footer"/>
