@@ -6,11 +6,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C2A17C&center=true&vCenter=true&width=500&lines=Computer+Engineer;Mobile+App+Development;Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C2A17C&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial Intelligence;" alt="Typing SVG" />
   </a>
 </div>
 
-- 🚀 I'm currently learning **Mobile Application Development** using **Flutter**
+- 🚀 I'm currently learning **Machine Learning and Deep Learning**
 
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Socials
