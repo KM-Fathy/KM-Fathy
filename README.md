@@ -8,10 +8,18 @@
   </a>
 </div>
 
+<br></br>
+
+
 - 💡 Passionate about **Artificial Intelligence** — especially **Machine Learning** & **Neural Networks**
 - 📱 Solid foundation in **Flutter Development**
 - 🚀 Exploring **Data Visualization** with **Power BI**
 - 🧠 Always **curious**, always **learning**
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
+</p>
 
 
 <h2>
@@ -22,7 +30,13 @@
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
   </a>
+  <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/](https://www.facebook.com/kareem.m.fathy.360484">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
+  </a>
 </p>
+
+
+<br></br>
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="20"> Programming Languages & Tools
@@ -30,10 +44,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,c,cs,sqlite,python,vscode" height="45" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
 </p>
 
 <p align="center">
