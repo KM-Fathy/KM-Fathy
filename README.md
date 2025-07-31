@@ -1,16 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=135&section=header"/>
-
-<h1 align="center">
-  Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kareem Mohamed
-</h1>
+<p align="center">
+  <img width="100% "src="https://capsule-render.vercel.app/api?type=waving&height=135&color=000000&text=Welcome,%20I'm%20Kareem&animation=twinkling&textBg=false&reversal=true&fontColor=FFFFFF"/>
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C2A17C&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=C2A17C&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
   </a>
 </div>
 
-- 🚀 I'm currently learning **Machine Learning and Deep Learning**
+- 💡 Passionate about **Artificial Intelligence** — especially **Machine Learning** & **Neural Networks**
+- 📱 Solid foundation in **Flutter Development**
+- 🚀 Exploring **Data Visualization** with **Power BI**
+- 🧠 Always **curious**, always **learning**
+
 
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Socials
@@ -37,6 +39,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&layout=compact&count_private=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
 </p>
+
+<a href="https://github.com/KM-Fathy">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KM-Fathy&theme=react-dark&radius=8&area=true"/>
+</a>
 
 <h2>
   🧠 Fun Fact
