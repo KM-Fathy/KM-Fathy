@@ -28,10 +28,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
-  </a>
-  <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/](https://www.facebook.com/kareem.m.fathy.360484">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" height="100"/>
   </a>
 </p>
 
