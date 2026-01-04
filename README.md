@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=45a8f1&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3ea5ea&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,6 +19,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
+</p>
+
+<p align="center">
+   <img src="https://github-contributor-stats.vercel.app/api?username=KM-Fathy&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=002865&hide_border=true&text_color=45a8f1&title_color=ffffff&icon_color=ffffff" />
 </p>
 
 
