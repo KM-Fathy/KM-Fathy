@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100% "src="https://capsule-render.vercel.app/api?type=waving&height=135&color=002865&text=Welcome,%20I'm%20Kareem&animation=twinkling&textBg=false&reversal=true&fontColor=FFFFFF"/>
+  <img width="100% "src="https://capsule-render.vercel.app/api?type=waving&height=135&color=385d7f&text=Welcome,%20I'm%20Kareem&animation=twinkling&textBg=false&reversal=true&fontColor=FFFFFF"/>
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3ea5ea&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6ab8b2&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-002865?style=for-the-badge&logo=linkedin&logoColor=white" width="125" height="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-385d7f?style=for-the-badge&logo=linkedin&logoColor=white" width="125" height="100"/>
   </a>
 </p>
 
@@ -62,4 +62,4 @@
 > _“I write code not just to make apps... but to solve real-world problems and make lives easier.”_
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002865&height=135&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=385d7f&height=135&section=footer"/>
