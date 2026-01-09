@@ -10,11 +10,17 @@
 
 <br></br>
 
-
 - 💡 Passionate about **Artificial Intelligence** — especially **Machine Learning** & **Neural Networks**
 - 📱 Solid foundation in **Flutter Development**
 - 🚀 Exploring **Data Visualization** with **Power BI**
 - 🧠 Always **curious**, always **learning**
+
+<br></br>
+
+<p align="center">
+  <img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/faabbf3b-424a-4e48-8980-ff8e7b4bb03d" />
+</p>
+
 
 
 <p align="center">
