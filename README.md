@@ -22,15 +22,9 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=002865&title_color=ffffff&text_color=45a8f1&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KM-Fathy&show_icons=true&count_private=true&hide_border=true&bg_color=385d7f&title_color=ffffff&text_color=6ab8b2&icon_color=ffffff" />
 </p>
-
-<p align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=KM-Fathy&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=002865&hide_border=true&text_color=45a8f1&title_color=ffffff&icon_color=ffffff" />
-</p>
-
 
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="46px" height="20">  Socials
@@ -53,13 +47,17 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,c,cs,sqlite,python,vscode" height="45" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&hide_border=true&layout=compact&count_private=true&bg_color=000000&title_color=C2A17C&text_color=ffffff&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KM-Fathy&show_icons=true&bg_color=385d7f&&color=0e75b6&title_color=6ab8b2&text_color=fff&count_private=true&hide_border=true&locale=en&layout=donut" alt="KM-Fathy" />
 </p>
 
 <a href="https://github.com/KM-Fathy">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KM-Fathy&theme=react-dark&radius=8&area=true"/>
 </a>
+
+
 
 <h2>
   🧠 Fun Fact
