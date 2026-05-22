@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-385d7f?style=for-the-badge&logo=linkedin&logoColor=white" width="125" height="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-385d7f?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
   </a>
 </p>
 
