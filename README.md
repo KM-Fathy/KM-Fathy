@@ -18,7 +18,7 @@
 <br></br>
 
 <p align="center">
-  <img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/faabbf3b-424a-4e48-8980-ff8e7b4bb03d" />
+  <img width="3168" height="1344" alt="Kakashi Banner" src="https://github.com/user-attachments/assets/89e1092c-c1df-4337-8ddd-5c6ff34853f2" />
 </p>
 
 
