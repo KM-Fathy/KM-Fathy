@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100% "src="https://capsule-render.vercel.app/api?type=waving&height=135&color=385d7f&text=Hi%20I'm%20Kareem&animation=twinkling&textBg=false&reversal=true&fontColor=FFFFFF"/>
+  <img width="100% "src="https://capsule-render.vercel.app/api?type=waving&height=135&color=00218E&text=Hi%20I'm%20Kareem&animation=twinkling&textBg=false&reversal=true&fontColor=FFFFFF"/>
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6ab8b2&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9AFFFC&center=true&vCenter=true&width=500&lines=Computer+Engineer;Artificial+Intelligence;Flutter;Data+Visualization" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 <br></br>
 
 <p align="center">
-  <img width="3168" height="1344" alt="Kakashi Banner" src="https://github.com/user-attachments/assets/89e1092c-c1df-4337-8ddd-5c6ff34853f2" />
+  <img width="1584" height="672" alt="watermark-removed-1000047965" src="https://github.com/user-attachments/assets/a2bdaa59-315b-41cc-b72e-dc4cc642e208" />
 </p>
 
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-mohamed-64a92628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-385d7f?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00218E?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
   </a>
 </p>
 
@@ -66,4 +66,4 @@
 > _“I write code not just to make apps... but to solve real-world problems and make lives easier.”_
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=385d7f&height=135&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00218E&height=135&section=footer"/>
